@@ -1,2 +1,2 @@
-# RuleNHao.github.io
-My Personal Website
+# RuleNHao
+> My Personal Website
